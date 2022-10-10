@@ -1,0 +1,6 @@
+Goals:
+
+-Inheritance and Polymorphism
+-Implementing and applying the Heap data structure as a priority queue
+-Defining and raising Exceptions
+-Testing your functionality with pytest
