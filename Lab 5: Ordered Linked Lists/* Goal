@@ -1,0 +1,6 @@
+Goals:
+
+-Defining classes in Python
+-Overloading an operator in a Python class
+-Implementing an Ordered Linked List
+-Testing your functionality with pytest
