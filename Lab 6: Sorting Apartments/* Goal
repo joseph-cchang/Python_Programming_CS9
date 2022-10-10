@@ -1,0 +1,9 @@
+Goals:
+
+-Defining classes in Python
+-Overloading the ==, <, and > operators in a Python class
+-Implementing an O(n log n) mergesort on a list of Apartment objects
+-Writing functions that ensure the list of Apartment objects are in sorted order
+-Determining the best/worst apartment in a list
+-Listing out all of the apartments that are affordable
+-Testing your functionality with pytest
