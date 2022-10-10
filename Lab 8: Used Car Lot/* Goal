@@ -1,0 +1,7 @@
+Goals:
+
+-Defining classes in Python
+-Overloading the ==, <, and > operators in a Python class
+-Implementing and applying the Binary Search Tree (BST) data structure
+-Writing functions that ensure Car objects are in sorted order
+-Testing your functionality with pytest
