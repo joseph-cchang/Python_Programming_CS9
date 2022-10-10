@@ -1,3 +1,3 @@
 # Python_Programming_CS9
 
-This is a compilation of the lab assignments, homeworks, and lectures completed in the Python Programming Class at UCSB
+This is a compilation of all the lab assignments applying the knowledge from the homeworks, quizzes, and lectures in the Python Programming Class at UCSB
