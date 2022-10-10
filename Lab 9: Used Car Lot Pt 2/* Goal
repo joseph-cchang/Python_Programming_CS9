@@ -1,1 +1,5 @@
+Goals for the lab:
 
+-Modifying classes in Python
+-Further implementing Binary Search Tree (BST) data structure supporting removal functionality
+-Testing functionality with pytest
