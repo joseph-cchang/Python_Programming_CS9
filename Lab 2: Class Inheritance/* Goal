@@ -1,0 +1,6 @@
+Goals:
+
+-Defining a base class and creating an inheritance hierarchy
+-Defining derived classes and inheriting data from a base class
+-Overriding inherited methods from the parent class in the derived classes
+-Installing pytest and unit testing your code
